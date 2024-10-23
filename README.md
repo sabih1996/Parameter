@@ -55,7 +55,7 @@ npm run install
 1. Set the `DATABASE_URL` environment variable in your `.env` file:
 
 
-You can use tools like [Dbvear)](https://dbeaver.io/) or [Supabase](https://supabase.com/) to create PostgreSQL Db and replace your .
+You can use tools like [Dbvear)](https://dbeaver.io/) or [Supabase](https://supabase.com/) to create PostgreSQL Db and replace.
 
 ```bash
 DATABASE_URL=postgres://username:password@hostname:port/database_name
