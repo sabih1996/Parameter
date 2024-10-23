@@ -1,6 +1,6 @@
 # Parameter Service
 
-This project creates a Parameter Service using NestJS and gRPC. It's designed to manage and control access to various parameters or settings in a system.
+This project creates a Parameter Service using NestJS(Node.js framework in TypeScript) and gRPC. It's designed to manage and control access to various parameters or settings in a system.
 
 ## Key Features
 
