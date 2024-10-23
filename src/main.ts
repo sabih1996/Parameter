@@ -18,7 +18,7 @@ async function bootstrap() {
           process.env.IDL_PATH || "../../idl",
           "parameters.proto"
         ),
-        package: "arameter",
+        package: "parameter",
       },
     }
   );
